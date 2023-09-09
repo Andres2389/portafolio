@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+    transition: all;
+}
+body{
+	background: #1f242d;
+    animation: alternate-reverse;
+}
+li{
+    color: #1f242d;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: work sans;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px 15px;
+}
+.software {
+    overflow: hidden;
+    width: 85%;
+    height: 25%;
+}
+.img1{
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.img2{
+    float: right;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.img3{
+    float: left;
+    margin-right: 10px;
+    height: 400px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+
+.img4{
+    float: right;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.img5{
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.img6{
+    float: right;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+
+.img7{
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+    margin:10px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+.P1{
+font-size:20px ;
+padding: 15px 15px;
+margin: 15px;
+color: white;
+}

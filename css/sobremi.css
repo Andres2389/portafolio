@@ -1,0 +1,65 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-color: rgb(29, 48, 73);
+    
+}
+img{
+    width: 400px;
+    height: 300px;
+    
+}
+p{
+   color:  rgb(228, 225, 222);
+   font-size: 25px;
+   font-family: work sans;
+   text-align: start;
+   overflow: hidden;
+   padding: 25px 20px;
+}
+h1{
+    color: aqua;
+     font-size: 40px;
+     font-weight: 700;
+     text-align: center;
+     overflow: hidden;
+}
+.home{
+   background-color:  #1f242d;
+   text-align: center;
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   animation: slideRight 1s ease forwards;
+}
+
+.cont1{
+
+    display: inline-block;
+    text-align: center;
+    width: 540px;
+    background-color: #1f242d;
+    animation: image  1s ease forwards ;
+   
+}
+hr{
+    box-shadow: 0 0 20px #0ef;
+    border: 2px solid #0ef;
+    animation: image  1s ease forwards ;
+}
+.div2,.div1,.div3{
+    display: inline-block;
+    width: 540px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+.div4{
+
+    
+    width: 540px;
+    box-sizing: border-box;
+    padding: 10px;
+}
